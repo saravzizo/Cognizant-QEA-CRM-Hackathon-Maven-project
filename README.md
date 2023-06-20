@@ -4,8 +4,9 @@ Maven Project which automates the JustDial.com site with the help of selenium an
 
 #AUTOMATION TESTING
 
-WEBSITE USED : www.justdial.com
-LANGUAGES USED : JAVA
+Website Used : www.justdial.com
 
-TOOLS : Selenium, TestNG, POI
+Languages Used : JAVA
+
+Tools Used : Selenium, TestNG, POI, Maven
  
